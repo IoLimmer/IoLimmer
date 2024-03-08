@@ -1,4 +1,4 @@
-### Greetings friends, romans, and potential employers. 😎
+### Greetings friends, romans, and employers. 😎
 
 They call me Io (they/tehm), I'm a recent grad from the University of Bristol, working as a Junior Software Developer, but in my free time I make silly little video games in Godot.
 
