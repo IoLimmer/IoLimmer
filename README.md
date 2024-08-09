@@ -2,7 +2,7 @@
 
 They call me Io (they/them), I'm a alum of the University of Bristol, working as a Junior Software Developer, but in my free time I make silly little video games in Godot, and I'm off to study Animation in London in September.
 
-I also co-wrote "Super Mario in the Pernicious Kingdoms", a paper on classifying glitches and bugs from the Super Mario series in a more qualitative, mainstream cyber-security way. I had the good fortunate to present this paper at ICSE 2024 in Lisbon in April and you can find it [here](https://arxiv.org/pdf/2404.14870). 🌞🥳
+I also co-wrote "Super Mario in the Pernicious Kingdoms", a paper on classifying glitches and bugs from the Super Mario series in a more qualitative, mainstream cyber-security way. I had the good fortunate to present this paper at ICSE 2024 in Lisbon in April and you can find it [here](https://dl.acm.org/doi/pdf/10.1145/3643658.3643917). 🌞🥳
 
 I am proficient in:
 - Python
